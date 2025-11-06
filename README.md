@@ -75,19 +75,12 @@ App opens relevant YouTube songs like:
 https://www.youtube.com/results?search_query=punjabi+happy+song+ap+dhillon
 
 🎯 Example Emotions Supported
-Happy
-Sad
-Angry
-Neutral
+Happy, Sad, Angry, Neutral 
 (More can be added by collecting extra data)
 
 
 🔮 Future Enhancements
-Spotify / YouTube API Integration
-Deployment on Streamlit Cloud / HuggingFace
-FER/AffectNet dataset for higher accuracy
-In-app music player
-Emotion timeline graph
+Spotify / YouTube API Integration, Deployment on Streamlit Cloud / HuggingFace, FER/AffectNet dataset for higher accuracy, In-app music player, Emotion timeline graph
 
 
 👤 Author
