@@ -10,7 +10,7 @@ MoodBeats is a real-time emotion-based music recommendation system that detects 
 - Emotion classification using TensorFlow/Keras  
 - MediaPipe Holistic for landmark extraction  
 - Streamlit-based interface  
-- Opens YouTube music based on detected emotion & user preference  
+- Opens YouTube music based on detected emotion & user preference   
 
 ---
 
